@@ -2,7 +2,7 @@
 
 ### [Paper](https://arxiv.org/abs/***) | [Project Page](https://zhouyiks.github.io/***) | [MMVM Benchmark](https://huggingface.co/zhouyik/MMVMBench) | [Huggingface](https://huggingface.co/zhouyik/colva_internvl2_4b)
 
-![Teaser](imgs/benchmark_00.png)
+![Teaser](imgs/matching_04.jpg)
 
 We build the evaluation tool **MMVMEvalKit** based on [VLMEvalKit](https://github.com/open-compass/VLMEvalKit).
 
